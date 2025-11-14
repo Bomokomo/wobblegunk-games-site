@@ -1,4 +1,4 @@
-echo "www.yourcustomdomain.com" > CNAME
+echo "https://cadealexander.github.io/wobblegunk-games-site" > CNAME
 git add CNAME
 git commit -m "Add CNAME file back"
 git push
