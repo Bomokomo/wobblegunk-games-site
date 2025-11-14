@@ -1,0 +1,4 @@
+echo "www.yourcustomdomain.com" > CNAME
+git add CNAME
+git commit -m "Add CNAME file back"
+git push
